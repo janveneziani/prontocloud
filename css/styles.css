@@ -7,7 +7,7 @@ body {
 
 .main-container {
     display: block;
-    max-width: 100$;
+    max-width: 100%;
     margin: 0 auto;
 }
 
@@ -122,4 +122,8 @@ footer p{
 footer small {
     font-size: 80%;
     display:block;
+}
+
+.EYFnmL_dUEmnSLdh2ep9xw{
+    visibility: hidden; !important;
 }
