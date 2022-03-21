@@ -54,6 +54,11 @@ p {
     line-height: 1.4;
 }
 
+article img {
+    width:100%;
+    height:auto;
+}
+
 ol {
     margin-left: 30px;
 }
@@ -124,6 +129,17 @@ footer small {
     display:block;
 }
 
-.EYFnmL_dUEmnSLdh2ep9xw{
-    visibility: hidden; !important;
+#tenho-interesse .container article{
+    width:100%;
+    background: #9fd1fd;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+#tenho-interesse .container article .cognito form .c-forms-template {
+    background: #9fd1fd;
+}
+
+.c-safari .c-med {
+    background: #9fd1fd;
 }
