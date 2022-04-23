@@ -6,15 +6,19 @@ body {
 }
 
 .main-container {
+    padding:20px;
     display: block;
     max-width: 100%;
     margin: 0 auto;
 }
 
 .container{
-    padding: 20px;
     width: 100%;
     margin: 0 auto;
+}
+
+.container-conteudo{
+    padding:20px;
 }
 
 header {
@@ -71,7 +75,6 @@ ol li {
 section {
     font-size: 1.5rem;
     width: 100%;
-    padding: 20px;
 }
 
 section nav {
@@ -116,7 +119,7 @@ footer {
     float: left;
     width:100%;
     padding: 20px;
-
+    margin: auto;
 }
 
 footer p{
@@ -133,11 +136,13 @@ footer small {
     width:100%;
     background: #9fd1fd;
     margin: 0 auto;
-    padding: 20px;
+    padding:20px;
 }
 
 #tenho-interesse .container article .cognito form .c-forms-template {
     background: #9fd1fd;
+    width:100%;
+    margin: 0 auto;
 }
 
 .c-safari .c-med {
